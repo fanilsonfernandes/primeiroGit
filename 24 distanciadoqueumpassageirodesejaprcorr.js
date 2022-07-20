@@ -10,3 +10,4 @@ if(distancia=="km"){
     cobrando=preco*0.45
     console.log("0 passageiro precorreu a longa distancia",cobrando)
 }
+ 
